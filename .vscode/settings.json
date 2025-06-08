@@ -1,0 +1,6 @@
+{
+  "editor.suggest.snippetsPreventQuickSuggestions": true,
+  "emmet.useInlineCompletions": true,
+  "editor.inlineSuggest.suppressSuggestions": true,
+  "editor.suggest.shareSuggestSelections": true
+}
